@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-10-06T14:15:25.008425+00:00",
+  "execution_time_seconds": 985.826,
+  "sources": {
+    "Books to Scrape": 1000,
+    "Quotes to Scrape": 100
+  },
+  "records_collected_total": 1100,
+  "records_after_cleaning": 1100,
+  "records_rejected_validation_or_processing": 0,
+  "duplicates_detected_removed": 8,
+  "final_record_count": 1092,
+  "output_file": "output\\final_dataset.csv",
+  "validation_rejections": [],
+  "duplicate_examples": [
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html",
+      "name_or_title": "The Star-Touched Queen",
+      "category": "Fantasy",
+      "price": 32.3,
+      "rating": 5,
+      "author": null,
+      "tags": null,
+      "description": "Fate and fortune. Power and passion. What does it take to be the queen of a kingdom when you’re only seventeen?Maya is cursed. With a horoscope that promises a marriage of death and destruction, she has earned only the scorn and fear of her father’s kingdom. Content to follow more scholarly pursuits, her whole world is torn apart when her father, the Raja, arranges a wedding of political convenience to quell outside rebellions. Soon Maya becomes the queen of Akaran and wife of Amar. Neither roles are what she expected: As Akaran’s queen, she finds her voice and power. As Amar’s wife, she finds something else entirely: Compassion. Protection. Desire…But Akaran has its own secrets—thousands of locked doors, gardens of glass, and a tree that bears memories instead of fruit. Soon, Maya suspects her life is in danger. Yet who, besides her husband, can she trust? With the fate of the human and Otherworldly realms hanging in the balance, Maya must unravel an ancient mystery that spans reincarnated lives to save those she loves the most…including herself.",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html",
+      "name_or_title": "Harry Potter and the ...",
+      "category": "Default",
+      "price": 13.9,
+      "rating": 3,
+      "author": null,
+      "tags": null,
+      "description": "Harry Potter thinks he is an ordinary boy. He lives with his Uncle Vernon, Aunt Petunia and cousin Dudley, who are mean to him and make him sleep in a cupboard under the stairs. (Dudley, however, has two bedrooms, one to sleep in and one for all his toys and games.) Then Harry starts receiving mysterious letters and his life is changed forever. He is whisked away by a beetle-eyed giant of a man and enrolled at Hogwarts School of Witchcraft and Wizardry. The reason: Harry Potter is a wizard! The first book in the \"Harry Potter\" series makes the perfect introduction to the world of Hogwarts.",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html",
+      "name_or_title": "Harry Potter and the ...",
+      "category": "Young Adult",
+      "price": 24.17,
+      "rating": 4,
+      "author": null,
+      "tags": null,
+      "description": "Harry Potter is lucky to reach the age of thirteen, since he has already survived the murderous attacks of the feared Dark Lord on more than one occasion. But his hopes for a quiet term concentrating on Quidditch are dashed when a maniacal mass-murderer escapes from Azkaban, pursued by the soul-sucking Dementors who guard the prison. It's assumed that Hogwarts is the safest place for Harry to be. But is it a coincidence that he can feel eyes watching him in the dark, and should he be taking Professor Trelawney's ghoulish predictions seriously?",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html",
+      "name_or_title": "Harry Potter and the ...",
+      "category": "Fantasy",
+      "price": 31.63,
+      "rating": 4,
+      "author": null,
+      "tags": null,
+      "description": "Harry Potter is due to start his fifth year at Hogwarts School of Witchcraft and Wizardry. His best friends Ron and Hermione have been very secretive all summer and he is desperate to get back to school and find out what has been going on. However, what Harry discovers is far more devastating than he could ever have expected...Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an electrifying adventure that is impossible to put down.",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html",
+      "name_or_title": "Harry Potter and the ...",
+      "category": "Fantasy",
+      "price": 48.75,
+      "rating": 5,
+      "author": null,
+      "tags": null,
+      "description": "It is the middle of the summer, but there is an unseasonal mist pressing against the windowpanes. Harry Potter is waiting nervously in his bedroom at the Dursleys' house in Privet Drive for a visit from Professor Dumbledore himself. One of the last times he saw the Headmaster was in a fierce one-to-one duel with Lord Voldemort, and Harry can't quite believe that Professor Dumbledore will actually appear at the Dursleys' of all places. Why is the Professor coming to visit him now? What is it that cannot wait until Harry returns to Hogwarts in a few weeks' time? Harry's sixth year at Hogwarts has already got off to an unusual start, as the worlds of Muggle and magic start to intertwine...J.K. Rowling charts Harry Potter's latest adventures in his sixth year at Hogwarts with consummate skill and in breathtaking fashion.",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html",
+      "name_or_title": "Harry Potter and the ...",
+      "category": "Fantasy",
+      "price": 14.74,
+      "rating": 1,
+      "author": null,
+      "tags": null,
+      "description": "All Harry Potter wants is to get away from the Dursleys and go back to Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby - who says that if Harry Potter returns to Hogwarts, disaster will strike.And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockheart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.But each of these seem minor annoyances when the real trouble begins, and someone--or something--starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects... Harry Potter himself.",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/can-you-keep-a-secret_315/index.html",
+      "name_or_title": "Can You Keep a ...",
+      "category": "Womens Fiction",
+      "price": 21.94,
+      "rating": 1,
+      "author": null,
+      "tags": null,
+      "description": "Meet Emma Corrigan, a young woman with a huge heart, an irrepressible spirit, and a few little secrets: Secrets from her boyfriend: I've always thought Connor looks a bit like Ken. As in Barbie and Ken. Secrets from her mother: I lost my virginity in the spare bedroom with Danny Nussbaum while Mum and Dad were downstairs watching Ben-Hur. Secrets she wouldn't share with anyone in the world: I have no idea what NATO stands for. Or even what it is. Until she spills them all to a handsome stranger on a plane. At least, she thought he was a stranger.…Until Emma comes face-to-face with Jack Harper, the company's elusive CEO, a man who knows every single humiliating detail about her...",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    },
+    {
+      "source": "Books to Scrape",
+      "source_url": "https://books.toscrape.com/catalogue/the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html",
+      "name_or_title": "The Wicked + The ...",
+      "category": "Sequential Art",
+      "price": 36.52,
+      "rating": 2,
+      "author": null,
+      "tags": null,
+      "description": "Every ninety years, twelve gods incarnate as humans. They are loved. They are hated. In two years, they are dead. The team behind critical tongue-attractors like Young Avengers and PHONOGRAM reunite to create a world where gods are the ultimate pop stars and pop stars are the ultimate gods. But remember: just because you’re immortal, doesn’t mean you’re going to live forever. Collects THE WICKED + THE DIVINE #1-5",
+      "availability": "In stock",
+      "scraped_at": "2026-10-06T13:58:59.182481+00:00"
+    }
+  ]
+}

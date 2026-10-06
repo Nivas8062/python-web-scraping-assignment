@@ -1,0 +1,19 @@
+2026-10-06 | INFO | Submission package prepared. Live execution should be performed in the candidate environment using `python main.py`.
+2026-10-06 18:32:17,388 | INFO | Starting source: Books to Scrape
+2026-10-06 18:32:56,575 | INFO | Collected 1000 raw records from Books to Scrape
+2026-10-06 18:46:15,432 | INFO | Starting source: Quotes to Scrape
+2026-10-06 18:46:22,705 | INFO | Collected 100 raw records from Quotes to Scrape
+2026-10-06 18:47:59,628 | INFO | Pipeline complete. Final records: 1092
+2026-10-06 18:47:59,628 | INFO | Summary: C:\Users\HP\OneDrive\Desktop\scraping_assignment\output\summary_report.json
+2026-10-06 19:10:07,797 | INFO | Starting source: Books to Scrape
+2026-10-06 19:10:47,541 | INFO | Collected 1000 raw records from Books to Scrape
+2026-10-06 19:22:54,995 | INFO | Starting source: Quotes to Scrape
+2026-10-06 19:23:04,622 | INFO | Collected 100 raw records from Quotes to Scrape
+2026-10-06 19:25:02,329 | INFO | Pipeline complete. Final records: 1092
+2026-10-06 19:25:02,329 | INFO | Summary: C:\Users\HP\OneDrive\Desktop\scraping_assignment\output\summary_report.json
+2026-10-06 19:28:59,182 | INFO | Starting source: Books to Scrape
+2026-10-06 19:29:39,582 | INFO | Collected 1000 raw records from Books to Scrape
+2026-10-06 19:43:21,526 | INFO | Starting source: Quotes to Scrape
+2026-10-06 19:43:31,252 | INFO | Collected 100 raw records from Quotes to Scrape
+2026-10-06 19:45:25,011 | INFO | Pipeline complete. Final records: 1092
+2026-10-06 19:45:25,012 | INFO | Summary: C:\Users\HP\OneDrive\Desktop\scraping_assignment\output\summary_report.json
